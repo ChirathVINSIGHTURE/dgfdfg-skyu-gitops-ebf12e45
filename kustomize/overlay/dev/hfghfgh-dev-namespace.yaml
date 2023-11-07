@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: hfghfgh-dev
+  labels:
+    environment-id: env_aa4aae51-387a-420d-9466-8354fde451f6
+    project-id: project_eb2387c9-f3fa-4575-b002-d98309e3fcfb
+    project-name: hfghfgh
+    environment-name: dev
+    organization-id: org_c50d7b26-1f2a-4a6e-b11e-469a86e002c8
